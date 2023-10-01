@@ -1,0 +1,74 @@
+Project Development:-
+---------------------
+
+1. Designing Phase-
+			*Case-Study- (Online-Examination-System)
+			*Users :
+				1. Admin
+				2. Student
+
+			*Functionalities of Admin:-
+				• Admin can login.
+				• Admin can add questions.
+				• Admin can search/update/delete questions.
+				• Admin can view questions lists.
+				• Admin can view registered student list.
+				• Admin can add notice.
+				• Admin can view results.
+				• Admin change password.
+				• Admin can logout.
+
+			*Functionalities of Student:-
+				• Student can register.
+				• Student can login.
+				• Student can give an exam.
+				• Student can give feedback.
+				• Student can view profile.
+				• Student can update profile.
+				• Student can change password.
+				• Student can logout
+
+			*Finding the Entities:-
+				1. Admin-
+					
+				2. Student
+				3. Question
+				4. Exam
+				5. Category
+				6. Feedback
+			*ER-Modeling
+
+
+2. Coding Phase-
+		Technologies:-
+		-------------
+			Full-stack-
+			----------
+			
+			Front 	- HtML/CSS/JS/Bootstrap
+			BackEnd	-
+				  Dynamic Web Pages:-
+				  ------------------
+					* Servlet
+					* JSP
+			DB	- MySQL
+
+			* Frameworks:-
+					Design Patterns:- (Secure,Scalable,Modular...)
+					---------------
+					* DAO (Data Access Object)
+					* MVC -Model,View,Controller
+			* High-End:
+					*ORM - Hibernate,JPA
+					*Spring
+					*SpringBoot - REST API's
+					
+		
+
+	*Coding:- (Servlets,JSP):-
+	------------------------
+			Str. of your project:-
+			---------------------
+			Package hiearchy:-
+			-----------------
+
